@@ -1,6 +1,6 @@
 # theump.github.io
 
-# THE URBAN MORPHOLOGY PROJECT
+# THE URBAN MAPPING PROJECT
 ### Building an Open Global Land Use Database
 
 ## Mission
